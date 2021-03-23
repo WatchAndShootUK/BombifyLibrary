@@ -1,0 +1,1315 @@
+{ "3": {
+  "Threats": {
+    "SA-2": {
+      "Name": "SA-2",
+      "NATO Name": "Guideline",
+      "RED Name": "S-75 Dvina",
+      "Guidance": [
+        "Radar",
+        "Fan Song"
+      ],
+      "Range": [
+        6000,
+        56000
+      ],
+      "Altitude": [
+        100,
+        30000
+      ],
+      "Desc": "The S-75 Dvina is a high altitude surface to air missile first introduced in 1957. The SA-2 guideline has successfully engaged multiple aircraft, including American U2's, during its service. ",
+      "ImageTop": "sa2",
+      "Image": "sa2eq",
+      "Type": "Surface to Air Missile"
+    },
+    "SA-3": {
+      "Name": "SA-3",
+      "NATO Name": "Goa",
+      "RED Name": "tbc",
+      "Guidance": [
+        "Radar",
+        "Low Blow"
+      ],
+      "Range": [
+        3500,
+        24000
+      ],
+      "Altitude": [
+        200,
+        1850
+      ],
+      "Desc": "This is a test and it best work",
+      "ImageTop": "sa3",
+      "Image": "sa3eq",
+      "Type": "Surface to Air Missile"
+    },
+    "SA-6": {
+      "Name": "SA-6",
+      "NATO Name": "Gainful",
+      "RED Name": "tbc",
+      "Guidance": [
+        "Radar",
+        "Straight Flush"
+      ],
+      "Range": [
+        4000,
+        24000
+      ],
+      "Altitude": [
+        90,
+        14000
+      ],
+      "Desc": "",
+      "ImageTop": "sa6",
+      "Image": "sa6eq",
+      "Type": "Surface to Air Missile"
+    },
+    "SA-8": {
+      "Name": "SA-2",
+      "NATO Name": "Gecko",
+      "RED Name": "",
+      "Guidance": [
+        "Radar",
+        "Land Roll"
+      ],
+      "Range": [
+        1500,
+        10000
+      ],
+      "Altitude": [
+        75,
+        5000
+      ],
+      "Desc": "",
+      "ImageTop": "sa8",
+      "Image": "sa8eq",
+      "Type": "Surface to Air Missile"
+    },
+    "SA-10": {
+      "Name": "SA-10",
+      "NATO Name": "Grumble",
+      "RED Name": "",
+      "Guidance": [
+        "Radar",
+        "Flap Lid B"
+      ],
+      "Range": [
+        5000,
+        90000
+      ],
+      "Altitude": [
+        25,
+        25000
+      ],
+      "Desc": "",
+      "ImageTop": "sa10",
+      "Image": "sa10eq",
+      "Type": "Surface to Air Missile"
+    }
+  },
+  "Weapons": {
+      "Mk-81": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1950,
+          1967
+        ],
+        "Data": {
+          "Length": "74 in (1.88 m)",
+          "Filling": "Tritonal, Minol or Composition H6",
+          "Filling weight": "96 lb (44 kg)",
+          "Retarder": "Mk-14 TRD (Tail Retarding Device)"
+        },
+        "Name": "Mk-81",
+        "Type": "Bomb",
+        "MadeBy": "General Dynamics",
+        "Weight": "250lb",
+        "Guidance": [
+          "Dumb"
+        ],
+        "Nationality": "USA",
+        "Comments": "The Mk-81 'Firecracker' is a 250lb general purpose bomb. It was used extensively in Vietnam, but was deemed to small for use by the military. It was commonly deployed with Nalpalm cannisters, a mix known as 'snake & nape'. When fitted with the retarder fins it is known as the Mk-81 Snakeye.",
+        "Image": "gpb",
+        "ImageTop": "mk81top",
+        "Targets": [
+          "Dismounts (Groups)",
+          "Structures"
+        ]
+      },
+      "Mk-82": {
+        "Effects": [
+          "Frag",
+          "Blast"
+        ],
+        "Dates": [
+          "1950",
+          "Present"
+        ],
+        "Data": {
+          "Length": "87.4 inches (2.22 m)",
+          "Filling": "Tritonal, Minol (explosive) or Composition H6",
+          "Filling weight": "192 pounds (87 kg)",
+          "Unit cost": "$2,082.50",
+          "Retarder": "High or Low Drag"
+        },
+        "Name": "Mk-82",
+        "Type": "Bomb",
+        "MadeBy": "General Dynamics",
+        "Weight": "500lb",
+        "Guidance": [
+          "Dumb"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          285,
+          185,
+          165
+        ],
+        "Comments": "The Mark 82 (Mk 82) is an unguided, general-purpose bomb, part of the United States Mark 80 series. The explosive filling is usually tritonal, though other compositions have sometimes been used. Known as the Snakeye (pictured above) when fitted with high drag tail fins.",
+        "Image": "gpb",
+        "ImageTop": "mk82top",
+        "Targets": [
+          "Dismounts (Groups)",
+          "Structures"
+        ],
+        "Variants": {
+          "Mk-82": {},
+          "BLU-111": {
+            "Name": "BLU-111",
+            "Comments": "The BLU-111 is a modified Mk-82, filled with PBXN-109 thermally insensitive explosives and therefore making the weapon IM compliant."
+          },
+          "BLU-126 (LCDB)": {
+            "Name": "BLU-126 (LCDB)",
+            "Dates": [
+              "2007",
+              "Present"
+            ],
+            "Comments": "Also known as the Low Collateral Damage Bomb (LCDB), it is a BLU-111 with a smaller explosive charge. Inert ballast is added to match the original weight of the BLU-111, which gives it the same trajectory when dropped."
+          },
+          "BLU-129(VLCDB)": {
+            "Name": "BLU-129 (VLCDB)",
+            "Dates": [
+              "2011",
+              "Present"
+            ],
+            "Comments": "USAF modified Mk-82. Has a composite warhead case, made from carbon fibre. The casing disintegrates on impact, causing no fragmentation much three times less collateral damage."
+          }
+        }
+      },
+      "Mk-83": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1950,
+          "Present"
+        ],
+        "Data": {
+          "Length": "119.49 inches (3000 mm)",
+          "Filling": "Tritonal, Minol or Composition H6",
+          "Filling weight": "445 lb (202 kg)"
+        },
+        "Name": "Mk-83",
+        "Type": "Bomb",
+        "MadeBy": "General Dynamics",
+        "Weight": "1000lb",
+        "Guidance": [
+          "Dumb"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "390(415)",
+          "205(360)",
+          "180(300)"
+        ],
+        "Comments": "The Mk-83 is a 1000lb, low drag, general purpose bomb by General Dynamics. It forms the base of many 1000lb 'smart bombs' in service by NATO air forces.",
+        "Image": "gpb",
+        "ImageTop": "mk83top",
+        "Targets": [
+          "Dismounts (Groups)",
+          "Structures"
+        ],
+        "Variants": {
+          "Mk-82": {},
+          "BLU-110": {
+            "Name": "BLU-110",
+            "Comments": "The BLU-110 is a modified Mk-83, filled with PBXN-109 thermally insensitive explosives and therefore making the weapon IM compliant."
+          }
+        }
+      },
+      "Mk-84": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1950,
+          "Present"
+        ],
+        "Data": {
+          "Length": "129 in (3280 mm)",
+          "Filling": "Tritonal, Minol or Composition H6",
+          "Filling weight": "945 lb (429 kg)",
+          "Cost": "$16,000"
+        },
+        "Name": "Mk-84",
+        "Type": "Bomb",
+        "MadeBy": "General Dynamics",
+        "Weight": "2000lb",
+        "Guidance": [
+          "Dumb"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "405(405)",
+          "220(385)",
+          "200(320)"
+        ],
+        "Comments": "The Mk-84 is a 2000lb, low drag, general purpose bomb by General Dynamics. It forms the base of many 2000lb 'smart bombs' in service by NATO air forces.",
+        "Image": "gpb",
+        "ImageTop": "mk84top",
+        "Targets": [
+          "Dismounts (Groups)",
+          "Structures"
+        ],
+        "Variants": {
+          "Mk-84": {},
+          "BLU-109": {
+            "Name": "BLU-109",
+            "Comments": "The BLU-109 is a 2,000-pound hard target penetrator bomb. It is a penetration weapon used against bunkers, aircraft shelters, and reinforced concrete structures."
+          },
+          "BLU-117": {
+            "Name": "BLU-117",
+            "Comments": "The BLU-117 is a modified BLU-109 bunker buster. Filled with PBXN-109 instead of Tritonal, the BLU-117 is IM compliant and forms the base of many guided 2000lb bombs."
+          }
+        }
+      },
+      "GBU-10": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1976,
+          "Present"
+        ],
+        "Data": {
+          "Length": "14 ft 4in (4.34 m)",
+          "Base": "Mk-84",
+          "Guidance kit": "Paveway II",
+          "CEP": "3.6 feet (1.1 m)"
+        },
+        "Name": "GBU-10",
+        "Type": "Bomb",
+        "MadeBy": "Raytheon & Lockheed Martin",
+        "Weight": "2000lb",
+        "Guidance": [
+          "Laser"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          380,
+          195,
+          180
+        ],
+        "Comments": "The GBU-10 is a Mk-84 modified with the Paveway II guidance kit turning it into a laser guided weapon. ",
+        "Image": "gbu10",
+        "ImageTop": "gbu10top",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Dismounts (Individuals)",
+          "Dismounts (Groups)",
+          "Structures"
+        ]
+      },
+      "GBU-12": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1976,
+          "Present"
+        ],
+        "Data": {
+          "Length": "3.27 m (10.7 ft)",
+          "Base units": "Mk-82, BLU-111, BLU-126(LCDB), BLU-129(VLCDB)",
+          "Guidance kit": "Paveway II",
+          "CEP": "3.6 feet (1.1 m)",
+          "Unit Cost": "$21,896"
+        },
+        "Name": "GBU-12",
+        "Type": "Bomb",
+        "MadeBy": "Raytheon & Lockheed Martin",
+        "Weight": "500lb",
+        "Guidance": [
+          "Laser"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          270,
+          160,
+          150
+        ],
+        "Comments": "The GBU-12 is a Mk-82, BLU-111, BLU-126 or BLU-129 modified with the Paveway II guidance kit turning it into a laser guided weapon. ",
+        "Image": "gbu12",
+        "ImageTop": "gbu12top",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Dismounts (Individuals)",
+          "Dismounts (Groups)",
+          "Structures"
+        ]
+      },
+      "GBU-16": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1976,
+          "Present"
+        ],
+        "Data": {
+          "Length": "3.7 metres (12 ft)",
+          "Base units": "Mk-83",
+          "Guidance kit": "Paveway II",
+          "CEP": "3.6 feet (1.1 m)"
+        },
+        "Name": "GBU-16",
+        "Type": "Bomb",
+        "MadeBy": "Raytheon & Lockheed Martin",
+        "Weight": "1000lb",
+        "Guidance": [
+          "Laser"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          345,
+          195,
+          170
+        ],
+        "Comments": "The GBU-16 is a Mk-83, modified with the Paveway II guidance kit turning it into a laser guided weapon. ",
+        "Image": "gbu16",
+        "ImageTop": "gbu16top",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Dismounts (Individuals)",
+          "Dismounts (Groups)",
+          "Structures"
+        ]
+      },
+      "GBU-24": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1983,
+          "Present"
+        ],
+        "Data": {
+          "Length": "4.39 m (14 ft 5 in)",
+          "Base units": "Mk-84, BLU-109, BLU-117",
+          "Guidance kit": "Paveway III"
+        },
+        "Name": "GBU-24",
+        "Type": "Bomb",
+        "MadeBy": "Raytheon",
+        "Weight": "2000lb",
+        "Guidance": [
+          "Laser"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          380,
+          200,
+          180
+        ],
+        "Comments": "The GBU-24 is a 2000lb laser guided bomb fitted with Raythoen's Paveway III guidance kit. It is based on the Mk-84 bomb, with some variants utilising the BLU-109 or BLU-116 'bunker busters' for increased penetration. Paveway III utilises proportional guidance, which means the weapon loses less energy in flight and therefore has increased range.",
+        "Image": "gbu24",
+        "ImageTop": "gbu24top",
+        "Variants": {
+          "GBU-24": {},
+          "GBU-27": {
+            "Comments": "The GBU-27 is a modified GBU-24. The base is the BLU-109 penetration bomb with modified fins for fitting inside the F-117 bomb bay.",
+            "Name": "GBU-27",
+            "Image": "gbu27"
+          }
+        },
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Dismounts (Individuals)",
+          "Dismounts (Groups)",
+          "Structures"
+        ]
+      },
+      "GBU-28": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1991,
+          "Present"
+        ],
+        "Data": {
+          "Length": "225 inches",
+          "Base unit": "BLU-122 Penetrator",
+          "Guidance kit": "Paveway III"
+        },
+        "Name": "GBU-28",
+        "Type": "Bomb",
+        "MadeBy": "Raytheon",
+        "Weight": "5000lb",
+        "Guidance": [
+          "Laser"
+        ],
+        "Nationality": "USA",
+        "Comments": "The GBU-28 is 5000lb class laser guided bomb. It was brought into service in just three weeks from concept and was designed and manufactured to counter the deep bunkers of the Iraqi headquarters in teh Gulf war.",
+        "Image": "gbu28",
+        "ImageTop": "gbu28top",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Dismounts (Individuals)",
+          "Dismounts (Groups)",
+          "Structures",
+          "Armoured vehicles"
+        ]
+      },
+      "GBU-31": {
+        "Name": "GBU-31",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1999,
+          "Present"
+        ],
+        "Data": {
+          "Length": "152.7 inches (387.9 centimeters)",
+          "Base warhead": "Mk-84",
+          "Guidance kit": "Joint Direct Attack Munition (JDAM)",
+          "Unit cost": "$22,000 per tailkit"
+        },
+        "Type": "Bomb",
+        "MadeBy": "Boeing",
+        "Weight": "2000lb",
+        "Guidance": [
+          "INS"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "380(385)",
+          "205(360)",
+          "180(300)"
+        ],
+        "Comments": "The GBU-31 version 1 is the 2000lb Joint Direct Attack Munition (JDAM). It uses the Mk-84 general purpose bomb. JDAM provides INS guidance combined with a Global Positioning Service (GPS) receiver. This provides a stand-off, all weather capability against static targets.",
+        "Image": "gbu31",
+        "ImageTop": "gbu31top",
+        "Targets": [
+          "Radars",
+          "Soft-skinned vehicles",
+          "Structures"
+        ],
+        "Variants": {
+          "GBU-31 (v1)": {
+            "Name": "GBU-31 (v1)"
+          },
+          "GBU-31 (v2)": {
+            "Name": "GBU-31 (v2)",
+            "Comments": "The version 2 GBU-31 uses the BLU-117 general purpose bomb. The BLU-117 complies with Insensitive Munitions, reducing the risk of explosion in fuel related fires."
+          },
+          "GBU-31 (v3)": {
+            "Name": "GBU-31 (v3)",
+            "Comments": "The version 3 GBU-31 uses the BLU-109 general purpose bomb. The BLU-109 has a hardened case which causes increased penetration. The GBU-31v3 is best suited for striking dug in and hardened targets."
+          }
+        }
+      },
+      "GBU-32": {
+        "Name": "GBU-32",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1999,
+          "Present"
+        ],
+        "Data": {
+          "Base warhead": "Mk-83",
+          "Guidance kit": "Joint Direct Attack Munition (JDAM)",
+          "Unit cost": "$22,000 per tailkit"
+        },
+        "Type": "Bomb",
+        "MadeBy": "Boeing",
+        "Weight": "1000lb",
+        "Guidance": [
+          "INS"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "340(390)",
+          "205(345)",
+          "180(330)"
+        ],
+        "Comments": "The GBU-32 version 1 is the 1000lb Joint Direct Attack Munition (JDAM). It uses the Mk-83 general purpose bomb. JDAM provides INS guidance combined with a Global Positioning Service (GPS) receiver. This provides a stand-off, all weather capability against static targets.",
+        "Image": "gbu31",
+        "ImageTop": "gbu32top",
+        "Targets": [
+          "Radars",
+          "Soft-skinned vehicles",
+          "Structures"
+        ],
+        "Variants": {
+          "GBU-32 (v1)": {
+            "Name": "GBU-31 (v1)"
+          },
+          "GBU-32 (v2)": {
+            "Name": "GBU-31 (v2)",
+            "Comments": "The version 2 GBU-32 uses the BLU-110 general purpose bomb. The BLU-117 complies with Insensitive Munitions, reducing the risk of explosion in fuel related fires.",
+            "Data": {
+              "Base warhead": "BLU-110",
+              "Guidance kit": "Joint Direct Attack Munition (JDAM)",
+              "Unit cost": "$22,000 per tailkit"
+            }
+          }
+        }
+      },
+      "GBU-38": {
+        "Name": "GBU-38",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1999,
+          "Present"
+        ],
+        "Data": {
+          "Base warhead": "Mk-82",
+          "Guidance kit": "Joint Direct Attack Munition (JDAM)",
+          "Unit cost": "$22,000 per tailkit"
+        },
+        "Type": "Bomb",
+        "MadeBy": "Boeing",
+        "Weight": "500lb",
+        "Guidance": [
+          "INS"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "270(350)",
+          "160(295)",
+          "145(245)"
+        ],
+        "Comments": "The GBU-38 is a 500lb Joint Direct Attack Munition (JDAM). It uses the Mk-82 general purpose bomb. JDAM provides INS guidance combined with a GPS receiver. This provides a stand-off, all weather capability against static targets.",
+        "Image": "gbu31",
+        "ImageTop": "gbu38top",
+        "Targets": [
+          "Radars",
+          "Soft-skinned vehicles",
+          "Structures"
+        ],
+        "Variants": {
+          "GBU-38 (v1)": {
+            "Name": "GBU-31 (v1)"
+          },
+          "GBU-38 (v2-3)": {
+            "Name": "GBU-38 (v2-3)",
+            "Comments": "Version 2 & 3 GBU-32's use the BLU-111 general purpose bomb. The BLU-111 complies with Insensitive Munitions, reducing the risk of explosion in fuel related fires.",
+            "Data": {
+              "Base warhead": "BLU-111",
+              "Guidance kit": "Joint Direct Attack Munition (JDAM)",
+              "Unit cost": "$22,000 per tailkit"
+            }
+          },
+          "GBU-38 (v4)": {
+            "Name": "GBU-38 (v4)",
+            "Comments": "The GBU-38 v4 uses the BLU-126 Low Collateral Damage Bomb (LCDB) for reduced collateral damage.",
+            "USREDS": [
+              "185(230)",
+              "135(185)",
+              "120(160)"
+            ],
+            "Data": {
+              "Base warhead": "BLU-126",
+              "Guidance kit": "Joint Direct Attack Munition (JDAM)",
+              "Unit cost": "$22,000 per tailkit"
+            }
+          },
+          "GBU-38 (v5)": {
+            "Name": "GBU-38 (v5)",
+            "Comments": "The GBU-38 v5 uses the BLU-129 Very Low Collateral Damage Bomb (VLCDB) for reduced collateral damage. The VLCDB causes 30% less collateral damage making this JDAM ideal for targets in urban areas.",
+            "Data": {
+              "Base warhead": "BLU-129",
+              "Guidance kit": "Joint Direct Attack Munition (JDAM)",
+              "Unit cost": "$22,000 per tailkit"
+            },
+            "USREDS": [
+              "145(160)",
+              "95(145)",
+              "80(115)"
+            ]
+          }
+        }
+      },
+      "GBU-39": {
+        "Name": "GBU-39",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          2006,
+          "Present"
+        ],
+        "Data": {
+          "Base warhead": "Mk-81",
+          "Guidance kit": "Joint Direct Attack Munition (JDAM)",
+          "Unit cost": "$40,000",
+          "Length": "70.8 in (1.80 m)",
+          "Width": "7.5 in (190 mm)"
+        },
+        "Type": "Bomb",
+        "MadeBy": "Boeing",
+        "Weight": "250lb",
+        "Guidance": [
+          "INS"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "225(290)",
+          "140(225)",
+          "125(195)"
+        ],
+        "Comments": "The GBU-39/B Small Diameter Bomb (SDB) is a 250lb INS & GPS guided precision munition. It is a low collateral damage weapon intended to provide aircraft with the ability to carry a larger number of more accurate bombs. It has pop-up wings that enable it to glide further to reach its target. ",
+        "Image": "gbu39",
+        "ImageTop": "gbu39btop",
+        "Targets": [
+          "Radars",
+          "Dismounts (Individuals)",
+          "Structures"
+        ],
+        "Variants": {
+          "GBU-39B": {
+            "Name": "GBU-31 (v1)"
+          },
+          "GBU-39A/B": {
+            "Name": "GBU-39A/B",
+            "Dates": [
+              "2008",
+              "Present"
+            ],
+            "Comments": "The 39A/B Small Diameter Bomb (SDB) Focused Lethality Munition (FLM) uses a modified Mk-81 250lb general purpose bomb that uses a composite casing instead of steel for reduced collateral damage. ",
+            "USREDS": [
+              "100(140)",
+              "90(105)",
+              "75(95)"
+            ]
+          },
+          "GBU-39B/B": {
+            "Name": "GBU-39B/B",
+            "Dates": [
+              "2013",
+              "Present"
+            ],
+            "Image": "gbu39bbtop",
+            "Guidance": [
+              "Laser"
+            ],
+            "Comments": "The 39B/B Laser Small Diameter Bomb (SDB) is the GBU-39/B fitted with the Laser Joint Direct Attack Munition (LJDAM) seeker to enable laser guided terminal control and the ability to hit moving targets. "
+          }
+        }
+      },
+      "GBU-48": {
+        "Name": "GBU-48",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          2001,
+          "Present"
+        ],
+        "Data": {
+          "Base warhead": "Mk-83",
+          "Guidance kit": "Paveway II"
+        },
+        "Type": "Bomb",
+        "MadeBy": "Raytheon",
+        "Weight": "1000lb",
+        "Guidance": [
+          "Laser",
+          "INS"
+        ],
+        "Nationality": "USA",
+        "Comments": "The GBU-48 is a Mk-83 general purpose bomb fitted with the Enhanced Paveway II guidance kit. EPWII enables the bomb to be guided by GPS as well as laser guidance. ",
+        "Image": "gbu49",
+        "ImageTop": "gbu48top",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Armoured vehicles",
+          "Radars",
+          "Dismounts (Individuals)",
+          "Structures",
+          "Dismounts (Groups)"
+        ]
+      },
+      "GBU-49": {
+        "Name": "GBU-49",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          2001,
+          "Present"
+        ],
+        "Data": {
+          "Base warhead": "Mk-82",
+          "Guidance kit": "Paveway II"
+        },
+        "Type": "Bomb",
+        "MadeBy": "Raytheon",
+        "Weight": "500lb",
+        "Guidance": [
+          "Laser",
+          "INS"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "270(355)",
+          "160(300)",
+          "145(250)"
+        ],
+        "Comments": "The GBU-49 1/B is a GBU-12 laser guided bomb fitted with the Enhanced Paveway II guidance kit. EPWII enables the bomb to be guided by GPS as well as laser guidance. Informally known as teh EGBU-12.",
+        "Image": "gbu49",
+        "ImageTop": "gbu49top",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Armoured vehicles",
+          "Radars",
+          "Dismounts (Individuals)",
+          "Structures",
+          "Dismounts (Groups)"
+        ]
+      },
+      "GBU-50": {
+        "Name": "GBU-50",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          2001,
+          "Present"
+        ],
+        "Data": {
+          "Base warhead": "Mk-83",
+          "Guidance kit": "Paveway II"
+        },
+        "Type": "Bomb",
+        "MadeBy": "Raytheon",
+        "Weight": "1000lb",
+        "Guidance": [
+          "Laser",
+          "INS"
+        ],
+        "Nationality": "USA",
+        "Comments": "The GBU-49 1/B is a Mk-83 general purpose bomb fitted with the Enhanced Paveway II guidance kit. EPWII enables the bomb to be guided by GPS as well as laser guidance.",
+        "Image": "gbu49",
+        "ImageTop": "gbu50top",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Armoured vehicles",
+          "Radars",
+          "Dismounts (Individuals)",
+          "Structures",
+          "Dismounts (Groups)"
+        ]
+      },
+      "GBU-54": {
+        "Name": "GBU-54",
+        "Dates": [
+          1997,
+          "Present"
+        ],
+        "Type": "Bomb",
+        "Data": {
+          "Body (v1)": "Mk-82",
+          "Body (v2)": "BLU-111",
+          "Filling": "Tritonal, Minol (explosive) or Composition H6",
+          "Guidance kit": "Boeing Laser JDAM"
+        },
+        "Image": "gbu54",
+        "ImageTop": "gbu54top",
+        "Weight": "500lb",
+        "Length": "87.4 inches (2.22 m)",
+        "Diameter": "10.75 inches (273 mm)",
+        "MadeBy": "Boeing & General Dynamics",
+        "Effects": [
+          "Blast",
+          "Fragmentation"
+        ],
+        "Targets": [
+          "Radars",
+          "Soft-skinned vehicles",
+          "Armoured vehicles",
+          "Dismounts (Individuals)",
+          "Dismounts (Groups)",
+          "Structures"
+        ],
+        "Guidance": [
+          "Laser",
+          "INS"
+        ],
+        "Nationality": "USA",
+        "Comments": "The GBU-54 (v1-3) is a Mk-82 or BLU-111 body fitted with a Laser Joint Direct Attack Munition (LJDAM) guidance kit. The GBU-54 is capable of hitting high speed, moving targets.",
+        "Variants": {
+          "GBU-54 (v1-3)": {
+            "Name": "GBU-54 (v1-3)"
+          },
+          "GBU-54 (v4)": {
+            "Name": "GBU-54 (v4)",
+            "Data": {
+              "Body": "BLU-126 (LCDB)",
+              "Filling": "Tritonal, Minol (explosive) or Composition H6",
+              "Guidance kit": "Boeing Laser JDAM"
+            },
+            "Comments": "The GBU-54 v4 is a LJDAM guidance kit fitted to the BLU-126 Low Collateral Damage Bomb (LCDB) to enable use in built up areas whilst mitigating CDE concerns.",
+            "USREDS": [
+              "185 (230)",
+              "135(185)",
+              "120(160)"
+            ]
+          },
+          "GBU-54 (v5)": {
+            "Name": "GBU-54 (v5)",
+            "Data": {
+              "Body": "BLU-129 (VLCDB)",
+              "Filling": "Tritonal, Minol (explosive) or Composition H6",
+              "Guidance kit": "Boeing Laser JDAM"
+            },
+            "Effects": [
+              "Blast"
+            ],
+            "Comments": "The GBU-54 v5 is a LJDAM guidance kit fitted to the BLU-129 Very Low Collateral Damage Bomb (VLCDB). The VLCB utilises a carbon fibre body to cause almost no fragmentation.",
+            "USREDS": [
+              "145(160)",
+              "95(145)",
+              "85(115)"
+            ]
+          }
+        },
+        "USREDS": [
+          "270 (355)",
+          "160 (295)",
+          "145 (245)"
+        ]
+      },
+      "AGM-65": {
+        "Name": "AGM-65",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1972,
+          "Present"
+        ],
+        "Data": {
+          "Weight": "210-304 kg (462-670 lb)",
+          "Length": "249 cm (8 ft 2 in)"
+        },
+        "Type": "Missile",
+        "MadeBy": "Raytheon",
+        "Weight": "125- 300lb",
+        "Guidance": [
+          "TV",
+          "Laser",
+          "IR"
+        ],
+        "Nationality": "USA",
+        "Comments": "The AGM-65 Maverick air to ground missile, designed primarily for targetting vehicles on both land and sea. There are multiple variants of the AGM-65 ranging from the A model to the E2/L. The Maverick is the most widely used precision guided missile in the West.",
+        "Image": "agm65",
+        "ImageTop": "agm65top",
+        "USREDS": [
+          175,
+          155,
+          "100"
+        ],
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Armoured vehicles",
+          "Radars"
+        ]
+      },
+      "AGM-84": {
+        "Name": "AGM-84",
+        "Dates": [
+          1977,
+          "Present"
+        ],
+        "Type": "Missile",
+        "Guidance": [
+          "Radar",
+          "IR",
+          "INS"
+        ],
+        "MadeBy": "Boeing Defence",
+        "Weight": "488lb",
+        "Nationality": "USA",
+        "Data": {
+          "Length": "12.6 ft (3.8 m)",
+          "Unit cost": "$1,406,812",
+          "Weight": "1,523 lb (691 kg)",
+          "Maximum speed": "537 mph",
+          "Range": "150 NM (280km) +"
+        },
+        "Image": "agm84",
+        "ImageTop": "agm84top",
+        "Effects": [
+          "Blast"
+        ],
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Armoured vehicles"
+        ],
+        "Comments": "The AGM-84 is the air delivered variant of the HARPOON Stand-off Land Attack Missiles (SLAM). Current variants in service are the E, H & K. The AGM-84 is similiar to the TLAM and skims the surface of the land/sea to reach its target. It is navigationally aided by elements of the JDAM system coupled with its own radar & IR systems.",
+        "USREDS": [
+          230,
+          180,
+          155
+        ]
+      },
+      "AGM-88": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1983,
+          "Present"
+        ],
+        "Data": {
+          "Length": "4.1 metres (13 ft)",
+          "Wingspan": "1.1 metres (3.6 ft)",
+          "Operation range": "80 NM",
+          "Unit cost": "$200-800,000",
+          "Detonation system": "Laser proximity fuse",
+          "Maximum speed": "1,420 mph / Mach 1.84"
+        },
+        "Name": "AGM-88",
+        "Type": "Missile",
+        "MadeBy": "Raytheon",
+        "Weight": "146lb",
+        "Guidance": [
+          "Laser",
+          "INS",
+          "Radar"
+        ],
+        "Nationality": "USA",
+        "Comments": "The AGM-88 is a High-speed Anti Radiation Missile (HARM), designed to home in on electronic signatures from hostile radar systems - primarily those coordinating surface to air missiles. Later variants encorporated GPS aided guidance for improved accuracy.",
+        "Image": "agm88",
+        "ImageTop": "agm88top",
+        "Targets": [
+          "Radars"
+        ]
+      },
+      "AGM-114": {
+        "Name": "AGM-114",
+        "Dates": [
+          1984,
+          "Present"
+        ],
+        "Type": "Missile",
+        "Guidance": [
+          "Radar",
+          "Laser"
+        ],
+        "MadeBy": "Lockheed Martin",
+        "Weight": "20lb",
+        "Nationality": "USA",
+        "Data": {
+          "Length": "64 in (1.6 m)",
+          "Unit cost": "$70,000",
+          "Weight": "1000lb",
+          "Maximum speed": "997 mph",
+          "Range": "6 miles"
+        },
+        "Image": "agm114",
+        "ImageTop": "agm114top",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Armoured vehicles",
+          "Radars",
+          "Dismounts (Individuals)"
+        ],
+        "Comments": "THe AGM-114 Hellfire is an air to ground missile designed as a tank killer. Later variants were developed for precisions targets such as HVTs and light structures.",
+        "USREDS": [
+          145,
+          120,
+          110
+        ]
+      },
+      "AGM-158": {
+        "Effects": [
+          "Blast"
+        ],
+        "Dates": [
+          2009,
+          "Present"
+        ],
+        "Data": {
+          "Length": "4.27 m (14 ft)",
+          "Warhead": "Penetrator",
+          "Wingspan": "2.4 m (7 ft 11 in)",
+          "Range": "230m",
+          "Unit Cost": "$1,266,000"
+        },
+        "Name": "AGM-158",
+        "Type": "Missile",
+        "MadeBy": "Lockheed Martin",
+        "Weight": "1000lb",
+        "Guidance": [
+          "IR",
+          "INS"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          350,
+          170,
+          150
+        ],
+        "Comments": "The AGM-158 JASSM (Joint Air-to-Surface Standoff Missile) is a standoff air-launched cruise missile developed by Lockheed Martin for the United States Armed Forces. It has two enhanced variants giving it a much increased range and an anti-ship capability. ",
+        "Image": "agm158",
+        "ImageTop": "agm158top",
+        "Targets": [
+          "Radars",
+          "Structures"
+        ]
+      },
+      "AGM-176": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          "2008",
+          "Present"
+        ],
+        "Data": {
+          "Length": "42in / 110cm",
+          "Range": "10nm",
+          "Weight": "20kg"
+        },
+        "Name": "AGM-176",
+        "Type": "Missile",
+        "MadeBy": "Raytheon",
+        "Weight": "13lb",
+        "Guidance": [
+          "GPS",
+          "INS",
+          "Laser"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "120(130)",
+          "90(105)",
+          "75(105)"
+        ],
+        "Comments": "The AGM-176 Griffin is an air to surface missile developed by Raytheon. It is an adaptation of two other missile systems, the ground launched Javelin and the air-to-air sidewinder. There are two variants, the A is designed for use for cargo ramp deployment whilst the B is designed to be launched from conventional fighters and UAVs.",
+        "Image": "agm176",
+        "ImageTop": "agm176top",
+        "Targets": [
+          "Radars",
+          "Soft-skinned vehicles",
+          "Dismounts (Individuals)"
+        ]
+      },
+      "Brimstone": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          "2005",
+          "Present"
+        ],
+        "Data": {
+          "Length": "1.8 m (71 in)",
+          "Unit cost": "£105,000",
+          "Range": "10nm >"
+        },
+        "Name": "Brimstone",
+        "Type": "Missile",
+        "MadeBy": "MBDA",
+        "Weight": "14lb",
+        "Guidance": [
+          "Laser",
+          "Radar"
+        ],
+        "Nationality": "UK",
+        "USREDS": [
+          "175",
+          "-",
+          "90"
+        ],
+        "Comments": "The Brimstone is a UK designed and manfactured surface to air missile. It was first designed as a fire and forget tank killer, but later variants incorporated laser guidance and increased range for use in COIN environments.",
+        "Image": "brimstone",
+        "ImageTop": "brimstonetop",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Dismounts (Individuals)",
+          "Radars"
+        ]
+      },
+      "Hydra 70": {
+        "Effects": [
+          "Various"
+        ],
+        "Dates": [
+          "1940",
+          "Present"
+        ],
+        "Data": {
+          "Length": "41.7 inches (1,060 mm)",
+          "Range": "500-800 metres",
+          "Warheads:": "",
+          "M151": "High explosive (HEDP) '10 pounder'",
+          "M156": "White phosphorus munitions (WP)",
+          "M229": "High explosive (HEDP); elongated M151 '17 pounder'",
+          "M247": "High-explosive anti-tank (HEAT)/high-explosive dual purpose (HEDP)",
+          "M255": "APERS (anti-personnel) warhead",
+          "M255E1/A1": "Flechette warhead",
+          "M257": "Parachute illumination",
+          "M259": "White phosphorus (WP)",
+          "M261": "Multi-purpose submunition (MPSM)",
+          "M264": "Red phosphorus (RP) Smoke",
+          "M267": "MPSM Practice",
+          "M274": "Practice (Smoke)",
+          "M278": "Infra-red (IR) parachute illumination",
+          "M282": "Multipurpose penetrator warhead",
+          "Mk 67 Mod 0": "White phosphorus (WP)",
+          "Mk 67 Mod 1": "Red phosphorus (RP)",
+          "WTU-1/B": "Practice",
+          "WDU-4/A": "Flechette warhead",
+          "WDU-4A/A": "Flechette warhead"
+        },
+        "Name": "Hydra 70",
+        "Type": "Rocket",
+        "MadeBy": "General Dynamics",
+        "Weight": "10lb",
+        "Guidance": [
+          "Dumb"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "270",
+          "265",
+          "260"
+        ],
+        "Comments": "The Hydra 70 is a 2.75 inch rocket designed primarily for anti personnel and suppression missions. The warheads provide a number of different effects including HE, WP and illumination.",
+        "Image": "hydra",
+        "ImageTop": "hydratop",
+        "Targets": [
+          "Dismounts (Individuals)",
+          "Dismounts (Groups)",
+          "Soft-skinned vehicles"
+        ]
+      },
+      "Zuni": {
+        "Effects": [
+          "Various effects"
+        ],
+        "Dates": [
+          "1957",
+          "Present"
+        ],
+        "Data": {
+          "Length": "77 inches (2,000 mm)",
+          "Diametre": "\t5 inches (130 mm)",
+          "Engine": "Solid-fuel rocket",
+          "Range": "8km",
+          "Warheads": "",
+          "Mk.24": "HE",
+          "Mk.32": "ATAP (Anti-Tank Anti Personnel)/ HEAT-FRAG",
+          "Mk.33": "Illumination",
+          "Mk.34": "Smoke",
+          "Mk.63": "HE-Frag",
+          "Mk.84": "Chaff"
+        },
+        "Name": "Zuni",
+        "Type": "Rocket",
+        "MadeBy": "Hunter-Douglas",
+        "Weight": "50lb",
+        "Guidance": [
+          "Dumb"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          "250",
+          "220",
+          "215"
+        ],
+        "Comments": "The Zuni 5-inch rocket is a general purpose, unguided, rocket powered air to ground rocket. It has various warheads including armour piecing and penetration HE warheads. 5 inch rockets are fired from the LAU-10 rocket pods.",
+        "Image": "zuni",
+        "ImageTop": "zunitop",
+        "Targets": [
+          "Dismounts (Groups)",
+          "Soft-skinned vehicles",
+          "Armoured vehicles"
+        ]
+      },
+      "CRV-7": {
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          1970,
+          "Present"
+        ],
+        "Data": {
+          "Motor": "C17",
+          "Temperature Range": "-54 to +71 Celcius",
+          "Warheads": "",
+          "General Purpose Flechette": "warhead contains 80 tungsten flechettes. Each flechette is capable of penetrating light armour.",
+          "RA-79": "High Explosive Incendiary Semi-Armour Piercing: suitable for anti-ship, bunkers and fortifications.",
+          "M151": "High Explosive Point Detonating: warhead designed for antipersonnel applications.",
+          "M257": "Illumination and M278 Illumination: provides battlefield illumination over approximately one square mile with one million candlepower for 120 seconds in the visible spectrum. The M278 provides similar illumination in the near-IR spectrum."
+        },
+        "Name": "CRV-7",
+        "Type": "Rocket",
+        "MadeBy": "Bristol Aerospace",
+        "Weight": "10lb",
+        "Guidance": [
+          "Dumb"
+        ],
+        "Nationality": "USA",
+        "USREDS": [
+          270,
+          265,
+          260
+        ],
+        "Comments": "The Canadian Rocket Vehicle (CRV-7) is a 2.75 inch unguided rocket with a variant of warheads. The CRV7 remains one of the most powerful air-to-ground attack rockets to this day.",
+        "Image": "crv7",
+        "ImageTop": "crv7top",
+        "Targets": [
+          "Dismounts (Groups)",
+          "Soft-skinned vehicles",
+          "Structures"
+        ]
+      }
+    }
+}
+}
