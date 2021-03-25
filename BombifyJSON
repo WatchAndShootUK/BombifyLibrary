@@ -9,7 +9,7 @@
           "Radar",
           "Fan Song"
         ],
-        "Users": ["usa", "uk"],
+        "Users": ["United States of America (USA)", "United Kingdom (UK)"],
         "Range": [
           6000,
           56000
