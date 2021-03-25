@@ -1,4 +1,4 @@
-{ "1.1": {
+{ "1.2": {
   "Threats": {
     "SA-2": {
       "Name": "SA-2",
@@ -100,7 +100,7 @@
         25,
         25000
       ],
-      "Desc": "",
+      "Desc": "I love Ffion Thomas <3",
       "ImageTop": "sa10",
       "Image": "sa10eq",
       "Type": "Surface to Air Missile"
