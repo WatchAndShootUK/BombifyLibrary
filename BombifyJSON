@@ -1,4 +1,4 @@
-{ "1.0.2": {
+{ "1.1": {
   "Threats": {
     "SA-2": {
       "Name": "SA-2",
@@ -103,6 +103,27 @@
       "Desc": "",
       "ImageTop": "sa10",
       "Image": "sa10eq",
+      "Type": "Surface to Air Missile"
+    },
+        "SA-11": {
+      "Name": "SA-11",
+      "NATO Name": "Gadfly",
+      "RED Name": "",
+      "Guidance": [
+        "Radar",
+        "FIRE DOME"
+      ],
+      "Range": [
+        3500,
+        50000
+      ],
+      "Altitude": [
+        50,
+        25000
+      ],
+      "Desc": "Tactical mobile SAM",
+      "ImageTop": "sa11",
+      "Image": "sa11eq",
       "Type": "Surface to Air Missile"
     }
   },
