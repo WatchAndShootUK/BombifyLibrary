@@ -1663,8 +1663,8 @@
           15000
         ],
         "Desc": "The Pantsir missile system is a family of self-propelled, medium-range surface-to-air missile and anti-aircraft artillery systems. The Pantsir-S1 was designed to provide point air defence against ARMs, PGMs & UAVS. It also has a 30mm cannon with a max range/alt of 4km/9000ft. ",
-        "ImageTop": "sa11",
-        "Image": "sa11eq",
+        "ImageTop": "sa22",
+        "Image": "sa22eq",
         "Type": "Surface to Air Missile"
       },
       "ZSU 23/4": {
