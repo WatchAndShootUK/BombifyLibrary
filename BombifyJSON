@@ -1235,7 +1235,7 @@
           "Tajikistan",
           "Vietnam",
           "Yemen",
-          "Zimbabwe"
+          "Zimbabwe",""
         ],
         "Range": [
           6000,
@@ -1289,7 +1289,7 @@
           "Vietnam",
           "Yemen",
           "Uganda",
-          "Zambia"
+          "Zambia",""
         ],
         "Range": [
           3500,
@@ -1355,7 +1355,7 @@
           "Ukraine",
           "Vietnam",
           "Yemen",
-          "Houthi"
+          "Houthi",""
         ]
       },
       "SA-8": {
@@ -1388,7 +1388,7 @@
           "Sahrawi Arab Democratic Republic",
           "Syria",
           "Turkmenistan",
-          "Ukraine"
+          "Ukraine",""
         ],
         "Range": [
           1500,
@@ -1433,7 +1433,7 @@
           "Ukraine",
           "Uzbekistan",
           "Vietnam",
-          "Yemen"
+          "Yemen",""
         ],
         "RED Name": "9K31 Strela-1",
         "Guidance": [
@@ -1475,7 +1475,7 @@
           "Syria",
           "Ukraine",
           "Venezuela",
-          "Vietnam"
+          "Vietnam",""
         ],
         "Guidance": [
           "Radar",
@@ -1514,7 +1514,7 @@
           "Russia",
           "Syria",
           "Ukraine",
-          "Venezuela"
+          "Venezuela",""
         ],
         "RED Name": "9K37 'Buk'",
         "Guidance": [
@@ -1555,7 +1555,7 @@
           "Venezuela",
           "Yemen",
           "Morocco",
-          "Syria"
+          "Syria",""
         ],
         "RED Name": "9K330 Tor",
         "Guidance": [
@@ -1580,7 +1580,7 @@
         "NATO Name": "Grizzly",
         "Users": [
           "Russia",
-          "Syria"
+          "Syria",""
         ],
         "RED Name": "Buk-M1-2",
         "Guidance": [
@@ -1611,7 +1611,7 @@
           "Russia",
           "Syrua",
           "Ukraine",
-          "Yemen"
+          "Yemen",""
         ],
         "RED Name": "2K22 Tunguska",
         "Guidance": [
@@ -1647,7 +1647,7 @@
           "Serbia",
           "Syria",
           "United Arab Emirates",
-          "Vietnam"
+          "Vietnam",""
         ],
         "RED Name": "Pantsir",
         "Guidance": [
@@ -1709,7 +1709,7 @@
           "Ukraine",
           "United Kingdom",
           "Vietnam",
-          "Yemen"
+          "Yemen",""
         ],
         "RED Name": "Shilka",
         "Guidance": [
@@ -1727,7 +1727,7 @@
         "Desc": "The ZSU-23-4 \"Shilka\" is a lightly armored Soviet self-propelled, radar guided anti-aircraft weapon system (SPAAG). It is armed with 4 x 23mm cannons, with target acquisition aided by its Radar. Used mainly as a helicopter killer.",
         "ImageTop": "zsu23",
         "Image": "zsu23eq",
-        "Type": "Anti-Aircraft Artillery"
+        "Type": "Anti Aircraft Artillery"
       }
     }
   }
