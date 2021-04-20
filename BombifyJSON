@@ -1,5 +1,5 @@
 {
-  "1.7": {
+  "1.8": {
     "Weapons": {
       "Mk-81": {
         "Effects": [
@@ -748,7 +748,7 @@
         "MadeBy": "Boeing & General Dynamics",
         "Effects": [
           "Blast",
-          "Fragmentation"
+          "Frag"
         ],
         "Targets": [
           "Radars",
@@ -825,7 +825,7 @@
         "MadeBy": "Raytheon",
         "Effects": [
           "Blast",
-          "Fragmentation"
+          "Frag"
         ],
         "Targets": [
           "Radars",
