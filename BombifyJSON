@@ -1,5 +1,5 @@
 {
-  "1.8": {
+  "1.8.1": {
     "Weapons": {
       "Mk-81": {
         "Effects": [
@@ -363,7 +363,7 @@
           "Laser"
         ],
         "Nationality": "USA",
-        "Comments": "The GBU-28 is 5000lb class laser guided bomb. It was brought into service in just three weeks from concept and was designed and manufactured to counter the deep bunkers of the Iraqi headquarters in teh Gulf war.",
+        "Comments": "The GBU-28 is 5000lb class laser guided bomb. It was brought into service in just three weeks from concept and was designed and manufactured to counter the deep bunkers of the Iraqi headquarters in the Gulf war.",
         "Image": "gbu28",
         "ImageTop": "gbu28top",
         "Targets": [
