@@ -727,6 +727,43 @@
           "Dismounts (Groups)"
         ]
       },
+      "GBU-53": {
+        "Name": "GBU-53",
+        "Effects": [
+          "Blast",
+          "Frag"
+        ],
+        "Dates": [
+          2020,
+          "Present"
+        ],
+        "Data": {
+          "Base warhead": "Mk-81",
+          "Range (Moving target)": "72km",
+          "Range (Static target)": "110km",
+          "Length": "176cm",
+          "Mass": "204lb",
+          "Guidance kit": "Raytheon Tri-mode seeker"
+        },
+        "Type": "Bomb",
+        "MadeBy": "Raytheon",
+        "Weight": "250lb",
+        "Guidance": [
+          "Laser",
+          "Radar",
+          "INS"
+        ],
+        "Nationality": "UK",
+        "Comments": "The GBU-53/B Stormbreaker is a long range, low collateral bomb designed and manufactured by Raytheon UK. Initially known as the Small Diameter Bomb 2 (SDB II), the GBU-53 adds a new guidance kit to the GBU39/SBD. The weapon is able to glide to target from up to 110km away using GPS aided INS. Once in the target area the seeker switches to use MMR & IR homing to strike moving or static targets in all weather conditions. It can also be terminally controlled onto the target by airbourne or ground lasers. The GBU-53/B was approved for operational use on the F15E in 2020. It is compatable with the F18, F15E & F35.",
+        "Image": "gbu53",
+        "ImageTop": "gbu53top",
+        "Targets": [
+          "Soft-skinned vehicles",
+          "Armoured vehicles",
+          "Radars",
+          "Dismounts (Individuals)"
+        ]
+      },
       "GBU-54": {
         "Name": "GBU-54",
         "Dates": [
