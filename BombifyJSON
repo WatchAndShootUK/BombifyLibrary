@@ -878,6 +878,32 @@
           155,
           "100"
         ],
+        "Variants": {
+          "AGM-65B/D/H": {
+            "Effects": [
+              "Blast"
+            ],
+            "Comments": "The AGM-114B & H are TV radar guided. The D has an IR radar seeker. The shaped charge HEAT warhead is suited for armoured vehicles and the seekers are capable against moving targets. ",
+            "Weight": "125lb",
+            "Guidance": [
+              "Radar"
+            ]
+          },
+          "AGM-65F/G/K": {
+            "Comments": "The AGM-65 Foxtrot and Golf use IR guidance. The Kilo uses updated TV radar, pre locking onto targets before launch. Th F/G/K use a 300lb penetrator warhea for use against bunkers, structures and cave systems. ",
+            "Weight": "300lb",
+            "Guidance": [
+              "Radar"
+            ]
+          },
+          "AGM-65E/E2/L": {
+            "Comments": "The Maverick Echo is the latest iteration of the AGM-65, utilising the 300lb warhead. Its laser guidance can be terminally controlled by the engaging aircraft, another aircraft or ground JTACs/CCTs.",
+            "Weight": "300lb",
+            "Guidance": [
+              "Laser"
+            ]
+          }
+        },
         "Targets": [
           "Soft-skinned vehicles",
           "Armoured vehicles",
