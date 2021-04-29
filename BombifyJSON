@@ -1978,10 +1978,10 @@
         ],
         "Altitude": [
           100,
-          4500,
-          "The 9K333 MANPAD is the most advance portable Surface to Air missile in the Russian inventory. It tracks targets using three sensors - ultraviolet, near infrared, and mid-infrared. The SA-25 entered service in 2015."
+          4500
         ],
         "ImageTop": "sa25",
+        "Desc": "The 9K333 MANPAD is the most advance portable Surface to Air missile in the Russian inventory. It tracks targets using three sensors - ultraviolet, near infrared, and mid-infrared. It has the longest range of any known MANPAD globally. The SA-25 entered service in 2015.",
         "Image": "sa25eq",
         "Type": "Surface to Air Missile"
       },
