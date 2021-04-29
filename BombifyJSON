@@ -957,6 +957,14 @@
         ]
       },
       "AGM-114": {
+        "Targets": [
+          "Radars",
+          "Soft-skinned vehicles",
+          "Armoured vehicles",
+          "Dismounts (Individuals)",
+          "Dismounts (Groups)",
+          "Structures"
+        ],
         "Name": "AGM-114",
         "Dates": [
           1982,
@@ -983,12 +991,6 @@
           "Blast",
           "Frag"
         ],
-        "Targets": [
-          "Soft-skinned vehicles",
-          "Armoured vehicles",
-          "Radars",
-          "Dismounts (Individuals)"
-        ],
         "Comments": "THe AGM-114 Hellfire is an air to ground missile designed as a tank killer. Later variants were developed for precisions targets such as HVTs and light structures.",
         "USREDS": [
           145,
@@ -997,6 +999,10 @@
         ],
         "Variants": {
           "AGM-114A/B/C": {
+            "Targets": [
+              "Soft-skinned vehicles",
+              "Armoured vehicles"
+            ],
             "Name": "AGM-114A/B/C",
             "Weight": "18lb",
             "Guidance": [
@@ -1009,6 +1015,12 @@
             ]
           },
           "AGM-114K/K2/K2A": {
+            "Targets": [
+              "Radars",
+              "Soft-skinned vehicles",
+              "Armoured vehicles",
+              "Dismounts (Individuals)"
+            ],
             "Name": "AGM-114K/K2/K2A",
             "Comments": "The AGM-114K series, known as Hellfire II, was the second generation of the AGM-114. It is capable against reactive armour and primarily designed for armoured vehicles. The K2 is compliant with Insensitive Munitions (IM) and the K2A introduces a fragmentation sleeve.",
             "USREDS": [
@@ -1025,6 +1037,10 @@
             ]
           },
           "AGM-114L": {
+            "Targets": [
+              "Radars",
+              "Armoured vehicles"
+            ],
             "Guidance": [
               "Radar"
             ],
@@ -1033,11 +1049,6 @@
               2005
             ],
             "Name": "AGM-114L",
-            "Data": {
-              "Body": "BLU-129 (VLCDB)",
-              "Filling": "Tritonal, Minol (explosive) or Composition H6",
-              "Guidance kit": "Boeing Laser JDAM"
-            },
             "Effects": [
               "Blast"
             ],
@@ -1049,6 +1060,12 @@
             ]
           },
           "AGM-114M": {
+            "Targets": [
+              "Radars",
+              "Soft-skinned vehicles",
+              "Dismounts (Individuals)",
+              "Structures"
+            ],
             "Guidance": [
               "Laser"
             ],
@@ -1066,6 +1083,12 @@
             ]
           },
           "AGM-114N": {
+            "Targets": [
+              "Radars",
+              "Soft-skinned vehicles",
+              "Dismounts (Individuals)",
+              "Structures"
+            ],
             "Guidance": [
               "Laser",
               "Radar"
@@ -1084,6 +1107,12 @@
             ]
           },
           "AGM-114P/P+": {
+            "Targets": [
+              "Radars",
+              "Soft-skinned vehicles",
+              "Armoured vehicles",
+              "Dismounts (Individuals)"
+            ],
             "Guidance": [
               "Laser"
             ],
@@ -1104,6 +1133,13 @@
             ]
           },
           "AGM-114R": {
+            "Targets": [
+              "Radars",
+              "Soft-skinned vehicles",
+              "Armoured vehicles",
+              "Dismounts (Individuals)",
+              "Structures"
+            ],
             "Guidance": [
               "Laser"
             ],
@@ -1117,7 +1153,7 @@
               "Blast"
             ],
             "Weight": "108lb",
-            "Comments": "The AGM-114R has a multi-role warhead capable of engaging structurs, armour & personnel. It can be launched from air (FW,AH,UAV), sea & land making it the most versatile of all Hellfire variants. The R2 is capable of HoB engagement for personnel. The R9E contains less explosives than the other Romeo variants, making it suited for urban and COIN operations in a low CDE environment.",
+            "Comments": "The AGM-114R has a multi-role warhead capable of engaging structures, armour & personnel. It can be launched from air (FW,AH,UAV), sea & land making it the most versatile of all Hellfire variants. The R2 is capable of HoB engagement for personnel. The R9E contains less explosives than the other Romeo variants, making it suited for urban and COIN operations in a low CDE environment.",
             "USREDS": [
               145,
               120,
