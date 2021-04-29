@@ -591,7 +591,7 @@
         ],
         "Variants": {
           "GBU-39B": {
-            "Name": "GBU-31 (v1)"
+            "Name": "GBU-39B"
           },
           "GBU-39A/B": {
             "Name": "GBU-39A/B",
@@ -879,18 +879,21 @@
           "100"
         ],
         "Variants": {
+          "AGM-65": {
+            "Name": "AGM-65"
+          },
           "AGM-65B/D/H": {
             "Effects": [
               "Blast"
             ],
-            "Comments": "The AGM-114B & H are TV radar guided. The D has an IR radar seeker. The shaped charge HEAT warhead is suited for armoured vehicles and the seekers are capable against moving targets. ",
+            "Comments": "The AGM-65B & H are TV radar guided. The D has an IR radar seeker. The shaped charge HEAT warhead is suited for armoured vehicles and the seekers are capable against moving targets. ",
             "Weight": "125lb",
             "Guidance": [
               "Radar"
             ]
           },
           "AGM-65F/G/K": {
-            "Comments": "The AGM-65 Foxtrot and Golf use IR guidance. The Kilo uses updated TV radar, pre locking onto targets before launch. Th F/G/K use a 300lb penetrator warhea for use against bunkers, structures and cave systems. ",
+            "Comments": "The AGM-65 Foxtrot and Golf use IR guidance. The Kilo uses updated TV radar, pre locking onto targets before launch. The F/G/K use a 300lb penetrator warhead for use against bunkers, structures and cave systems. ",
             "Weight": "300lb",
             "Guidance": [
               "Radar"
@@ -1024,6 +1027,9 @@
           110
         ],
         "Variants": {
+          "AGM-114": {
+            "Name": "AGM-114"
+          },
           "AGM-114A/B/C": {
             "Targets": [
               "Soft-skinned vehicles",
