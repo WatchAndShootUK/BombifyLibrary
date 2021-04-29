@@ -1,5 +1,5 @@
 {
-  "1.8.1": {
+  "1.8.2": {
     "Weapons": {
       "Mk-81": {
         "Effects": [
@@ -959,7 +959,7 @@
       "AGM-114": {
         "Name": "AGM-114",
         "Dates": [
-          1984,
+          1982,
           "Present"
         ],
         "Type": "Missile",
@@ -973,9 +973,9 @@
         "Data": {
           "Length": "64 in (1.6 m)",
           "Unit cost": "$70,000",
-          "Weight": "1000lb",
-          "Maximum speed": "997 mph",
-          "Range": "6 miles"
+          "Weight": "18-100lb",
+          "Maximum speed": "997mph",
+          "Range": "8000m"
         },
         "Image": "agm114",
         "ImageTop": "agm114top",
@@ -994,7 +994,137 @@
           145,
           120,
           110
-        ]
+        ],
+        "Variants": {
+          "AGM-114A/B/C": {
+            "Name": "AGM-114A/B/C",
+            "Weight": "18lb",
+            "Guidance": [
+              "Laser"
+            ],
+            "Comments": "The ABC variants were the first AGM-114 variants. The A was designed for use against armoured vehicles whilst the B & C were able to strike sea-bourne targets. They used a shaped charge High Explosive Anti Tank (HEAT) warhead but were unable to engage targets with reactive armour.",
+            "Dates": [
+              1982,
+              1992
+            ]
+          },
+          "AGM-114K/K2/K2A": {
+            "Name": "AGM-114K/K2/K2A",
+            "Comments": "The AGM-114K series, known as Hellfire II, was the second generation of the AGM-114. It is capable against reactive armour and primarily designed for armoured vehicles. The K2 is compliant with Insensitive Munitions (IM) and the K2A introduces a fragmentation sleeve.",
+            "USREDS": [
+              115,
+              95,
+              80
+            ],
+            "Dates": [
+              1993,
+              "Present"
+            ],
+            "Guidance": [
+              "Laser"
+            ]
+          },
+          "AGM-114L": {
+            "Guidance": [
+              "Radar"
+            ],
+            "Dates": [
+              1995,
+              2005
+            ],
+            "Name": "AGM-114L",
+            "Data": {
+              "Body": "BLU-129 (VLCDB)",
+              "Filling": "Tritonal, Minol (explosive) or Composition H6",
+              "Guidance kit": "Boeing Laser JDAM"
+            },
+            "Effects": [
+              "Blast"
+            ],
+            "Comments": "The AGM-114L is guided purely by millimetric wave radar, for use with the LONGBOW system. It is a fire and forget weapon that is capable in adverse weather conditions to engage armoured targets.",
+            "USREDS": [
+              115,
+              95,
+              80
+            ]
+          },
+          "AGM-114M": {
+            "Guidance": [
+              "Laser"
+            ],
+            "Name": "AGM-114M",
+            "Comments": "The AGM-114M is a large 100lb laser guided missile designed for engaging bunkers, light vehicles and structures. The warhead combines blast, fragmentation and incendiary effects.",
+            "Weight": "100lb",
+            "Dates": [
+              1998,
+              2010
+            ],
+            "USREDS": [
+              115,
+              95,
+              80
+            ]
+          },
+          "AGM-114N": {
+            "Guidance": [
+              "Laser",
+              "Radar"
+            ],
+            "Name": "AGM-114N",
+            "Comments": "The AGM-114N was designed for COIN operations. It has a Metal Augmented Charge with a delayed fusing capability. It is suited for bunkers, structures and light vehicles. It has a dual guidance system enabling laser and radar control for improved accuracy.",
+            "Weight": "106lb",
+            "Dates": [
+              2003,
+              "Present"
+            ],
+            "USREDS": [
+              115,
+              95,
+              80
+            ]
+          },
+          "AGM-114P/P+": {
+            "Guidance": [
+              "Laser"
+            ],
+            "Dates": [
+              2002,
+              2012
+            ],
+            "Name": "AGM-114P/P+",
+            "Effects": [
+              "Frag",
+              "Blast"
+            ],
+            "Comments": "The AGM-114P variant is designed for UAVs. It can engage all surface targets and is configured with various different types of fragmentation sleeve.",
+            "USREDS": [
+              115,
+              95,
+              80
+            ]
+          },
+          "AGM-114R": {
+            "Guidance": [
+              "Laser"
+            ],
+            "Dates": [
+              2012,
+              "Present"
+            ],
+            "Name": "AGM-114R",
+            "Effects": [
+              "Frag",
+              "Blast"
+            ],
+            "Weight": "108lb",
+            "Comments": "The AGM-114R has a multi-role warhead capable of engaging structurs, armour & personnel. It can be launched from air (FW,AH,UAV), sea & land making it the most versatile of all Hellfire variants. The R2 is capable of HoB engagement for personnel. The R9E contains less explosives than the other Romeo variants, making it suited for urban and COIN operations in a low CDE environment.",
+            "USREDS": [
+              145,
+              120,
+              100
+            ]
+          }
+        }
       },
       "AGM-158": {
         "Effects": [
