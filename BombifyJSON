@@ -1,5 +1,5 @@
 {
-  "1.8.2": {
+  "1.8.4": {
     "Weapons": {
       "Mk-81": {
         "Effects": [
@@ -1734,7 +1734,7 @@
           30,
           7000
         ],
-        "Desc": "The SA-8 is a highly mobile, short-range, low altitude infra-red guided surface-to-air missile system. It is a digital upgrade to the SA-8 Gecko mainly deployed to counter ARMs, PGMs and cruise missiles. They are commonly deployed with SPAAG assets.  ",
+        "Desc": "The SA-9 is a highly mobile, short-range, low altitude infra-red guided surface-to-air missile system. It is a digital upgrade to the SA-8 Gecko mainly deployed to counter ARMs, PGMs and cruise missiles. They are commonly deployed with SPAAG assets.  ",
         "ImageTop": "sa9",
         "Image": "sa8eq",
         "Type": "Surface to Air Missile"
@@ -1957,6 +1957,31 @@
         "Desc": "The Pantsir missile system is a family of self-propelled, medium-range surface-to-air missile and anti-aircraft artillery systems. The Pantsir-S1 was designed to provide point air defence against ARMs, PGMs & UAVS. It also has a 30mm cannon with a max range/alt of 4km/9000ft. ",
         "ImageTop": "sa22",
         "Image": "sa22eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-25": {
+        "Name": "SA-25",
+        "NATO Name": "Verba",
+        "Users": [
+          "Armenia",
+          "Russia",
+          "Syria"
+        ],
+        "RED Name": "9K333 Verba",
+        "Guidance": [
+          "IR"
+        ],
+        "Range": [
+          100,
+          6500
+        ],
+        "Altitude": [
+          100,
+          4500,
+          "The 9K333 MANPAD is the most advance portable Surface to Air missile in the Russian inventory. It tracks targets using three sensors - ultraviolet, near infrared, and mid-infrared. The SA-25 entered service in 2015."
+        ],
+        "ImageTop": "sa25",
+        "Image": "sa25eq",
         "Type": "Surface to Air Missile"
       },
       "ZSU 23/4": {
