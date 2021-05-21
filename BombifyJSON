@@ -887,7 +887,7 @@
           "Radar"
         ],
         "Nationality": "France",
-        "Comments": "The Armement Air-Sol Modulaire (Air-to-Ground Modular Weapon) (AASM) \"Hammer\" (Highly Agile Modular Munition Extended Range) is a French Precision-Guided Munition developed by Safran Electronics & Defense. It is a multi-role & extended range guidance kit fitted to the Mk-82/BLU-111. The AARM has modifiable vertical impact angle, enabling engagement in complex terrain. There are three designations for the AARM, each named after their US counter parts. Each has a different and progressively more accurate method of guidance. There is a 1000lb version of the weapon system entering service with the Rafael in 2022.",
+        "Comments": "The Armement Air-Sol Modulaire (Air-to-Ground Modular Weapon) (AASM) \"Hammer\" (Highly Agile Modular Munition Extended Range) is a French Precision-Guided Munition developed by Safran Electronics & Defense. It is a multi-role & extended range guidance kit fitted to the Mk-82/BLU-111. The AARM has modifiable vertical impact angle, enabling engagement in complex terrain. There are three designations for the AARM, each named after their US counter parts. Each has a different and progressively more accurate method of guidance. There is a 1000kg version of the weapon system entering service with the Rafael in 2022.",
         "Variants": {
           "SBU-38": {
             "Name": "SBU-38 \"HAMMER\"",
