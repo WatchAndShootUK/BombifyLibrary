@@ -848,8 +848,8 @@
           "145 (245)"
         ]
       },
-      "AARM": {
-        "Name": "AARM \"Hammer\"",
+      "AARM (SBU-38)": {
+        "Name": "AARM",
         "Dates": [
           2007,
           "Present"
@@ -890,14 +890,14 @@
         "Comments": "The Armement Air-Sol Modulaire (Air-to-Ground Modular Weapon) (AASM) \"Hammer\" (Highly Agile Modular Munition Extended Range) is a French Precision-Guided Munition developed by Safran Electronics & Defense. It is a multi-role & extended range guidance kit fitted to the Mk-82/BLU-111. The AARM has modifiable vertical impact angle, enabling engagement in complex terrain. There are three designations for the AARM, each named after their US counter parts. Each has a different and progressively more accurate method of guidance. There is a 1000kg version of the weapon system entering service with the Rafael in 2022.",
         "Variants": {
           "SBU-38": {
-            "Name": "SBU-38 \"HAMMER\"",
+            "Name": "SBU-38",
             "Comments": "The SBU-38, or version 1 AARM has GPS aided INS guidance. With a rumored CEP of  10 metres.",
             "Guidance": [
               "INS"
             ]
           },
           "SBU-54": {
-            "Name": "SBU-54 \"HAMMER\"",
+            "Name": "SBU-54",
             "Comments": "The SBU-54 adds an Infra-Red Radar seeker into the mix which increases the CEP to 1 metre. ",
             "Guidance": [
               "INS",
@@ -905,7 +905,7 @@
             ]
           },
           "SBU-64": {
-            "Name": "SBU-64 \"HAMMER\"",
+            "Name": "SBU-64",
             "Comments": "The SBU-64 has three modes of guidance: GPS/INS, IR & Laser. It can reportedly strike targets traveling up to 80mph.",
             "Guidance": [
               "INS",
