@@ -848,8 +848,8 @@
           "145 (245)"
         ]
       },
-      "AARM (SBU-38)": {
-        "Name": "AARM",
+      "AASM": {
+        "Name": "AASM",
         "Dates": [
           2007,
           "Present"
@@ -864,8 +864,8 @@
           "Guidance kit": "Armement Air-Sol Modulaire",
           "Extended range kit": "Solid fuel motor"
         },
-        "Image": "aarm",
-        "ImageTop": "aarmtop",
+        "Image": "aasm",
+        "ImageTop": "aasmtop",
         "Weight": "500lb",
         "Length": "3.1metres",
         "MadeBy": "Safran Electronics & Defense",
@@ -891,7 +891,7 @@
         "Variants": {
           "SBU-38": {
             "Name": "SBU-38",
-            "Comments": "The SBU-38, or version 1 AARM has GPS aided INS guidance. With a rumored CEP of  10 metres.",
+            "Comments": "The SBU-38, or version 1 AASM has GPS aided INS guidance. With a rumored CEP of  10 metres.",
             "Guidance": [
               "INS"
             ]
