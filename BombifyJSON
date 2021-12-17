@@ -1714,6 +1714,29 @@
           ""
         ]
       },
+      "SA-7": {
+        "Name": "SA-29",
+        "NATO Name": "Grail",
+        "Users": [
+          "Soviet Union"
+        ],
+        "RED Name": "9K32 Strela-2",
+        "Guidance": [
+          "IR"
+        ],
+        "Range": [
+          100,
+          4200
+        ],
+        "Altitude": [
+          50,
+          2300
+        ],
+        "ImageTop": "sa7",
+        "Desc": "The 9K32 Strela-2 is a light-weight, shoulder-fired, surface-to-air missile system. It is designed to target aircraft at low altitudes, with passive infrared homing guidance and destroy them with a high explosive warhead.\n\nThe Strela-2 was a staple of the Cold War and was produced in huge numbers for the Soviet Union and their allies, as well as revolutionary movements. Though since surpassed by more modern systems, the Strela and its variants remain in service in many countries, and have seen widespread use in nearly every regional conflict since 1972.",
+        "Image": "sa7eq",
+        "Type": "Surface to Air Missile"
+      },
       "SA-8": {
         "Name": "SA-8",
         "NATO Name": "Gecko",
@@ -1920,7 +1943,7 @@
         "RED Name": "9K35 'Strela-10'",
         "Guidance": [
           "Radar",
-          "FIRE DOME"
+          "DOG EAR"
         ],
         "Range": [
           80,
@@ -2072,9 +2095,9 @@
         "Image": "sa22eq",
         "Type": "Surface to Air Missile"
       },
-      "SA-25": {
-        "Name": "SA-25",
-        "NATO Name": "Verba",
+      "SA-29": {
+        "Name": "SA-29",
+        "NATO Name": "Willow",
         "Users": [
           "Armenia",
           "Russia",
