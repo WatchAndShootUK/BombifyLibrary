@@ -1,5 +1,5 @@
 {
-  "1.8.8": {
+  "1.8.9": {
     "Weapons": {
       "Mk-81": {
         "Effects": [
@@ -1892,6 +1892,47 @@
         "Desc": "The Buk missile system is a family of self-propelled, medium-range surface-to-air missile systems developed by the Soviet Union and its successor state, the Russian Federation, and designed to counter cruise missiles, smart bombs, fixed- and rotary-wing aircraft, and unmanned aerial vehicles. It is the successor of the SA-6 'Gainful'.",
         "ImageTop": "sa11",
         "Image": "sa11eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-13": {
+        "Name": "SA-13",
+        "NATO Name": "Gopher",
+        "Users": [
+          "Algeria",
+          "Armenia",
+          "Azerbaijan",
+          "Belarus",
+          "Cyprus",
+          "Egypt",
+          "Georgia",
+          "India",
+          "Kazakhstan",
+          "Iran",
+          "North Korea",
+          "Pakistan",
+          "People's Republic of China",
+          "Russia",
+          "Syria",
+          "Ukraine",
+          "Venezuela",
+          ""
+        ],
+        "RED Name": "9K35 'Strela-10'",
+        "Guidance": [
+          "Radar",
+          "FIRE DOME"
+        ],
+        "Range": [
+          80,
+          5000
+        ],
+        "Altitude": [
+          25,
+          3500
+        ],
+        "Desc": "The 9K35 Strela-10 is a highly mobile, short-range surface-to-air missile system. It is visually aimed, and utilizes optical/infrared-guidance. The system is primarily intended to engage low-altitude threats, such as helicopters.",
+        "ImageTop": "sa13",
+        "Image": "sa13eq",
         "Type": "Surface to Air Missile"
       },
       "SA-15": {
