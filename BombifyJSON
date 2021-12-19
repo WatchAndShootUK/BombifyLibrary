@@ -1,5 +1,5 @@
 {
-  "1.8.10": {
+  "1.8.11": {
     "Weapons": {
       "Mk-81": {
         "Effects": [
@@ -1559,6 +1559,31 @@
       }
     },
     "Threats": {
+      "SA-1": {
+        "Name": "SA-1",
+        "NATO Name": "Guild",
+        "RED Name": "S-25 'Berkut'",
+        "Guidance": [
+          "Radar",
+          "Yo Yo"
+        ],
+        "Users": [
+          "Russian Federation",
+          "North Korea"
+        ],
+        "Range": [
+          0,
+          30000
+        ],
+        "Altitude": [
+          900,
+          24000
+        ],
+        "Desc": "The S-25 Berkut is a surface-to-air guided missile, the first operational SAM system in the Soviet Union. In the early 1950s it was tested at Kapustin Yar. It was deployed in several rings around Moscow starting in 1955 and became combat ready in June 1956. \n\nIt was used only defensively at Moscow; the more mobile S-75 (SA-2 Guideline) would be used in almost all other locations. Several improvements were introduced over its long service lifetime, and the system was finally replaced by the S-300P in 1982.",
+        "ImageTop": "sa1",
+        "Image": "sa1eq",
+        "Type": "Surface to Air Missile"
+      },
       "SA-2": {
         "Name": "SA-2",
         "NATO Name": "Guideline",
@@ -1657,6 +1682,96 @@
         "Desc": "The SA-3 has a shorter effective range and lower engagement altitude than the SA-1 & SA-2 and also flies slower, but due to its two-stage design it is more effective against more maneuverable targets. It is also able to engage lower flying targets than the previous systems, and being more modern it is much more resistant to ECM.",
         "ImageTop": "sa3",
         "Image": "sa3eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-4": {
+        "Name": "SA-4",
+        "NATO Name": "Ganef",
+        "RED Name": "2K11 'Krug'",
+        "Guidance": [
+          "Radar",
+          "Pat Hand"
+        ],
+        "Users": [
+          "Armenia",
+          "Azerbaijan",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "North Korea",
+          "",
+          "",
+          "",
+          "Syria",
+          "Turkmenistan",
+          "Kyrgyzstan",
+          "",
+          "",
+          ""
+        ],
+        "Range": [
+          0,
+          55000
+        ],
+        "Altitude": [
+          100,
+          27000
+        ],
+        "Desc": "The 2K11 Krug is a Soviet and now Russian medium-range, medium-to-high altitude surface-to-air missile (SAM) system. The system was designed by NPO Novator and produced by Kalinin Machine Building Plant. \n\nIts GRAU designation is \"2K11.\" Its NATO reporting name is SA-4 Ganef, after a word of Yiddish origin meaning \"thief\" or \"rascal.\"",
+        "ImageTop": "sa4",
+        "Image": "sa4eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-5": {
+        "Name": "SA-5",
+        "NATO Name": "Gammon",
+        "RED Name": "S-200",
+        "Guidance": [
+          "Radar",
+          "Square Pair"
+        ],
+        "Users": [
+          "Algeria",
+          "Azerbaijan",
+          "Bulgaria",
+          "Iran",
+          "Kazakhstan",
+          "Myanmar",
+          "North Korea",
+          "Poland",
+          "Syria",
+          "Turkmenistan",
+          "Ukraine",
+          "Uzbekistan",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Range": [
+          6000,
+          300000
+        ],
+        "Altitude": [
+          300,
+          40000
+        ],
+        "Desc": "The NPO Almaz S-200 Angara/Vega/Dubna NATO reporting name SA-5 Gammon (initially Tallinn), is a very long range, medium-to-high altitude surface-to-air missile (SAM) system designed in the 1960s to defend large areas from bomber attack or other strategic aircraft. \n\nEach battalion has 6 single-rail missile launchers for the 10.8 m (35 ft) long missiles and a fire control radar. It can be linked to other, longer-range radar systems, including an S-400 command post.",
+        "ImageTop": "sa5",
+        "Image": "sa5eq",
         "Type": "Surface to Air Missile"
       },
       "SA-6": {
@@ -1997,6 +2112,48 @@
         "Image": "sa11eq",
         "Type": "Surface to Air Missile"
       },
+      "SA-12": {
+        "Name": "SA-12",
+        "NATO Name": "Gladiator/Giant",
+        "RED Name": "S-300V",
+        "Users": [
+          "Russian Federation",
+          "Syria",
+          "Ukraine",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "Guidance": [
+          "Radar",
+          "Grill Pan"
+        ],
+        "Range": [
+          5000,
+          100000
+        ],
+        "Altitude": [
+          100,
+          32000
+        ],
+        "Desc": "The S-300V is the upgraded version of the S-300 SA-10. A battery is equipped with two different missiles, the 9M83 GLADIATOR and the 9M82 GIANT missile. ",
+        "ImageTop": "sa12",
+        "Image": "sa12eq",
+        "Type": "Surface to Air Missile"
+      },
       "SA-13": {
         "Name": "SA-13",
         "NATO Name": "Gopher",
@@ -2036,6 +2193,47 @@
         "Desc": "The 9K35 Strela-10 is a highly mobile, short-range surface-to-air missile system. It is visually aimed, and utilizes optical/infrared-guidance. The system is primarily intended to engage low-altitude threats, such as helicopters.",
         "ImageTop": "sa13",
         "Image": "sa13eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-14": {
+        "Name": "SA-14",
+        "NATO Name": "Gremlin",
+        "Users": [
+          "Algeria",
+          "Armenia",
+          "Azerbaijan",
+          "Belarus",
+          "Cyprus",
+          "Egypt",
+          "Georgia",
+          "India",
+          "Kazakhstan",
+          "Iran",
+          "North Korea",
+          "Pakistan",
+          "People's Republic of China",
+          "Russia",
+          "Syria",
+          "Ukraine",
+          "Venezuela",
+          ""
+        ],
+        "RED Name": "9K34 'Strela-3'",
+        "Guidance": [
+          "Radar",
+          "IR"
+        ],
+        "Range": [
+          100,
+          4500
+        ],
+        "Altitude": [
+          30,
+          2700
+        ],
+        "Desc": "The 9K34 Strela-3 is a man-portable air defense missile system (MANPADS) developed in the Soviet Union as a response to the poor performance of the earlier 9K32 Strela 2 (SA-7 Grail) system. The missile was largely based on the earlier Strela 2, and thus development proceeded rapidly. The new weapon was accepted into service in the Soviet Army in January 1974.",
+        "ImageTop": "sa14",
+        "Image": "sa14eq",
         "Type": "Surface to Air Missile"
       },
       "SA-15": {
@@ -2080,6 +2278,48 @@
         "Image": "sa15eq",
         "Type": "Surface to Air Missile"
       },
+      "SA-16": {
+        "Name": "SA-16",
+        "NATO Name": "Gimlet",
+        "Users": [
+          "Algeria",
+          "Azerbaijan",
+          "Armenia",
+          "Belarus",
+          "China",
+          "Cyprus",
+          "Egypt",
+          "Greece",
+          "Iran",
+          "Myanmar",
+          "North Korea",
+          "Peru",
+          "Russia",
+          "Ukraine",
+          "Venezuela",
+          "Yemen",
+          "Morocco",
+          "Syria",
+          ""
+        ],
+        "RED Name": "9K310 Igla",
+        "Guidance": [
+          "Radar",
+          "IR"
+        ],
+        "Range": [
+          100,
+          5000
+        ],
+        "Altitude": [
+          100,
+          3500
+        ],
+        "Desc": "The 9K38 Igla is a Russian/Soviet man-portable infrared homing surface-to-air missile (SAM) system. A simplified, earlier version is known as the 9K310 Igla-1, or SA-16 Gimlet, and the latest variant is the 9K338 Igla-S (SA-24 Grinch).",
+        "ImageTop": "sa16",
+        "Image": "sa16eq",
+        "Type": "Surface to Air Missile"
+      },
       "SA-17": {
         "Name": "SA-17",
         "NATO Name": "Grizzly",
@@ -2104,6 +2344,48 @@
         "Desc": "The Buk missile system is a family of self-propelled, medium-range surface-to-air missile systems developed by the Soviet Union and its successor state, the Russian Federation, and designed to counter cruise missiles, smart bombs, fixed- and rotary-wing aircraft, and unmanned aerial vehicles. It is the successor of the SA-11 'Gadfly'.",
         "ImageTop": "sa11",
         "Image": "sa11eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-18": {
+        "Name": "SA-18",
+        "NATO Name": "Grouse",
+        "Users": [
+          "Algeria",
+          "Azerbaijan",
+          "Armenia",
+          "Belarus",
+          "China",
+          "Cyprus",
+          "Egypt",
+          "Greece",
+          "Iran",
+          "Myanmar",
+          "North Korea",
+          "Peru",
+          "Russia",
+          "Ukraine",
+          "Venezuela",
+          "Yemen",
+          "Morocco",
+          "Syria",
+          ""
+        ],
+        "RED Name": "9K38 Igla",
+        "Guidance": [
+          "Radar",
+          "IR"
+        ],
+        "Range": [
+          100,
+          5200
+        ],
+        "Altitude": [
+          100,
+          3500
+        ],
+        "Desc": "The 9K38 Igla is a Russian/Soviet man-portable infrared homing surface-to-air missile (SAM) system. A simplified, earlier version is known as the 9K310 Igla-1, or SA-16 Gimlet, and the latest variant is the 9K338 Igla-S (SA-24 Grinch).",
+        "ImageTop": "sa18",
+        "Image": "sa18eq",
         "Type": "Surface to Air Missile"
       },
       "SA-19": {
@@ -2136,6 +2418,80 @@
         "Desc": "The SA-9 is the name of the missile mounted on the 2S6 Artillery system. It is a self contained SPAAG primarily used to defence mechanised and armoured troops from attack from Western Attack Helicopters. The 2S6 Tunguska is also mounted with a 30mm cannon that has a maximum range of 4km and max altitude of 9000ft.",
         "ImageTop": "sa19",
         "Image": "sa19eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-20": {
+        "Name": "SA-20",
+        "NATO Name": "Gargoyle",
+        "RED Name": "S-300PMU-1",
+        "Users": [
+          "Algeria",
+          "Armenia",
+          "Azerbaijan",
+          "Belarus",
+          "Bulgaria",
+          "China",
+          "Egypt",
+          "Greece",
+          "India",
+          "Iran",
+          "Kazakhstan",
+          "North Korea",
+          "Russia",
+          "Slovakia",
+          "Syria",
+          "Ukraine",
+          "Venezuela",
+          "Vietnam",
+          ""
+        ],
+        "Guidance": [
+          "Radar",
+          "Tomb Stone"
+        ],
+        "Range": [
+          5000,
+          75000
+        ],
+        "Altitude": [
+          25,
+          25000
+        ],
+        "Desc": "The S-300 is a series of initially Soviet and later Russian long range surface-to-air missile systems produced by NPO Almaz, based on the initial S-300P version. The S-300 system was developed to defend against aircraft and cruise missiles for the Soviet Air Defence Forces. The S-300PMU is an upgraded system with",
+        "ImageTop": "sa10",
+        "Image": "sa10eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-21": {
+        "Name": "SA-21",
+        "NATO Name": "Growler",
+        "Users": [
+          "China",
+          "Russia",
+          "India",
+          "Turkey",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "RED Name": "S-400",
+        "Guidance": [
+          "Radar",
+          "GRAVESTONE"
+        ],
+        "Range": [
+          100,
+          400000
+        ],
+        "Altitude": [
+          100,
+          30000
+        ],
+        "Desc": "The S-400 Triumf, previously known as the S-300 PMU-3, is a mobile, surface-to-air missile (SAM) system developed in the 1990s by Russia's Almaz Central Design Bureau for Marine Engineering as an upgrade to the S-300 family.\n\nThe S-400 went into service on April 28, 2007. The first battalion of the newest surface-to-air missile systems assumed combat duty on August 6.\n\nThe S-400 is the Russian Federation's most advanced and longest range SAM capable of targeting cruise missiles and enemy fighters beyond the horizon.",
+        "ImageTop": "sa21",
+        "Image": "sa21eq",
         "Type": "Surface to Air Missile"
       },
       "SA-22": {
@@ -2173,6 +2529,48 @@
         "Desc": "The Pantsir missile system is a family of self-propelled, medium-range surface-to-air missile and anti-aircraft artillery systems. The Pantsir-S1 was designed to provide point air defence against ARMs, PGMs & UAVS. It also has a 30mm cannon with a max range/alt of 4km/9000ft. ",
         "ImageTop": "sa22",
         "Image": "sa22eq",
+        "Type": "Surface to Air Missile"
+      },
+      "SA-24": {
+        "Name": "SA-24",
+        "NATO Name": "Grinch",
+        "Users": [
+          "Algeria",
+          "Azerbaijan",
+          "Armenia",
+          "Belarus",
+          "China",
+          "Cyprus",
+          "Egypt",
+          "Greece",
+          "Iran",
+          "Myanmar",
+          "North Korea",
+          "Peru",
+          "Russia",
+          "Ukraine",
+          "Venezuela",
+          "Yemen",
+          "Morocco",
+          "Syria",
+          ""
+        ],
+        "RED Name": "9K338 Igla-S",
+        "Guidance": [
+          "Radar",
+          "IR"
+        ],
+        "Range": [
+          100,
+          6000
+        ],
+        "Altitude": [
+          100,
+          3500
+        ],
+        "Desc": "The 9K38 Igla is a Russian/Soviet man-portable infrared homing surface-to-air missile (SAM) system. A simplified, earlier version is known as the 9K310 Igla-1, or SA-16 Gimlet, and the latest variant is the 9K338 Igla-S (SA-24 Grinch).",
+        "ImageTop": "sa24",
+        "Image": "sa24eq",
         "Type": "Surface to Air Missile"
       },
       "SA-29": {
