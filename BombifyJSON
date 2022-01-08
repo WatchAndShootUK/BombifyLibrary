@@ -2415,7 +2415,7 @@
           15,
           3500
         ],
-        "Desc": "The SA-9 is the name of the missile mounted on the 2S6 Artillery system. It is a self contained SPAAG primarily used to defence mechanised and armoured troops from attack from Western Attack Helicopters. The 2S6 Tunguska is also mounted with a 30mm cannon that has a maximum range of 4km and max altitude of 9000ft.",
+        "Desc": "The SA-19 is the name of the missile mounted on the 2S6 Artillery system. It is a self contained SPAAG primarily used to defence mechanised and armoured troops from attack from Western Attack Helicopters. The 2S6 Tunguska is also mounted with a 30mm cannon that has a maximum range of 4km and max altitude of 9000ft.",
         "ImageTop": "sa19",
         "Image": "sa19eq",
         "Type": "Surface to Air Missile"
