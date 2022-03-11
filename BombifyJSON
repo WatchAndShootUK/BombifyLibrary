@@ -2025,7 +2025,7 @@
           7000
         ],
         "Desc": "The SA-9 is a highly mobile, short-range, low altitude infra-red guided surface-to-air missile system. It is a digital upgrade to the SA-8 Gecko mainly deployed to counter ARMs, PGMs and cruise missiles. They are commonly deployed with SPAAG assets.  ",
-        "ImageTop": "sa9",
+        "ImageTop": "sa9updated",
         "Image": "sa9eq",
         "Type": "Surface to Air Missile"
       },
